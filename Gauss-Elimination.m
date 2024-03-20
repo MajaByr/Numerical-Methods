@@ -1,6 +1,5 @@
 %Algorithm solving system of linear equations using Gaussian elimination
 %Example usage:
-%rng(42)
 %G = randi([-30,30], 6,6);
 %d= randi([-78, 78], 6, 1);
 %Y=solve([G d])
